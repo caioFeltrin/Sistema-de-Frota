@@ -1,0 +1,7 @@
+{
+  "name": "FrotaGestão",
+  "description": "Sistema de gestão de frotas com rastreamento GPS e controle de quilometragem/combustível.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
